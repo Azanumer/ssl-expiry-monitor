@@ -1,0 +1,6 @@
+# One domain per line. Optional custom port: host:port
+# Lines starting with # are ignored.
+
+example.com
+shop.example.com
+mail.example.com:465
